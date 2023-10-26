@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/euo4UUq5HWkN8DjLHz/giphy.gif" width="300" alt="Logo"/>
+  <img src="https://o.remove.bg/downloads/920028a4-3d99-48e3-a4d6-032da1ee03fa/download-removebg-preview.png" width="300" alt="Logo"/>
 </div>
 
 <div id="badges" align="center">
