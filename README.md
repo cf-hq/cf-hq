@@ -44,7 +44,7 @@
 <p>
 ➼<b>About my Works:</b>
   <p>
-    I believe that creativity is meant to be shared. <b>See something you like in my repositories? Feel free to use it in your own codes.</b> Anything I make will be under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a> unless otherwise stated. A text file of a project's license can be found in root directory of the corresponding repository.
+    I believe that creativity is meant to be shared, and Github is an open source site anyway. <b>See something you like? Feel free to use it in your own codes.</b> Anything I make will be under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a> unless otherwise stated. For your protection, a text file of a project's license can be found in root directory of the corresponding repository.
   </p>
 </p>
 
