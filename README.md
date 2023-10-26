@@ -14,26 +14,43 @@
   </a>
 </div>
 
-<h3>😉Hey, Good Lookin'</h3>
+<h3>Hey, Good Lookin'</h3>
 
 <hr>
 
 <section>
 <p>
-  I'm a <b>web development student</b> currently living in <b>Cleveland</b>. I enjoy working in <code>ReactJS</code> mainly, and am always looking to cultivate my knowledge of <code>HTML/CSS/JavaScript</code>, <code>Python</code>, <code>C++</code>, <code>APIs</code>, and other common programming tools. 
+  I'm a <b>web development student</b> currently living in <b>Cleveland</b>. I enjoy working in ReactJS mainly, and am always looking to cultivate my knowledge of HTML/CSS/JavaScript, Python, APIs, Photoshop, and other common developing and programming tools. 
 </p>
 <p>
-  Outside of coding, I promote and get involved in making transgender healthcare accessible through the 🏳️‍⚧️<a href="http://www.transyouthequality.org/">Trans Youth Equality Foundation</a>. Feel free to contact me through any of the links above, I'm always happy to talk.
+  Outside of coding, I promote making transgender healthcare accessible through the 🏳️‍⚧️<a href="http://www.transyouthequality.org/">Trans Youth Equality Foundation</a>. Feel free to contact me through any of the links above, I'm always happy to talk.
 </p>
 </section>
-<br>
+
 <br>
 <p>
-  ➼<b> Knowledge of:</b> 
+  ➼<b> Knowledge of:</b> <code>ReactJS</code>, <code>HTML</code>, <code>CSS</code>, <code>JS</code>, <code>Java</code>, <code>Python</code>, <code>C++</code>, <code>UI/UX</code>, <code>AngularJS</code>, <code>ASP.NET</code>, <code>Adobe PS</code>, <code>Figma</code>, <code>Git</code>, <code>Github</code>, <code>SEO</code>, <code>jQuery</code>, <code>VsCode</code>, <code>3rd Party APIs</code>, <code>Sideloading</code>, <code>Cryptography</code>, <code>Linux</code>, <code>Windows</code>, <code>PHP</code>
 </p>
 
+<br>
+<p>
+  ➼<b>Projects:</b>
+  <p>
+    Soon to be added...
+  </p>
+</p>
 
+<br>
+<p>
+➼<b>About my Works:</b>
+  <p>
+    I believe that creativity is meant to be shared. <b>See something you like in my repositories? Feel free to use it in your own codes.</b> Anything I make will be under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a> unless otherwise stated. A text file of a project's license can be found in root directory of the corresponding repository.
+  </p>
+</p>
 
-<h4>Listening To...</h4>
+<br>
+<p>
+  ➼<b>Listening To:</b>
+</p>
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uqmatvkighk2ytabsz25veomne&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uqmatvkighk2ytabsz25veomne&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 
