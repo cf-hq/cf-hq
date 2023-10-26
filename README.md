@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/colton-fannin">
+  <a href="https://www.linkedin.com/in/colton-fannin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/coletonofcoal?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr">
+  <a href="mailto:colton.fannin@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://twitter.com/Cole71735681370">
@@ -34,9 +34,9 @@
 
 <br>
 <p>
-  ➼<b>Projects:</b>
+  ➼<b>Recent Projects:</b>
   <p>
-    Soon to be added... (I'm lazy sometimes)
+    Soon to be added... (I'm lazy)
   </p>
 </p>
 
