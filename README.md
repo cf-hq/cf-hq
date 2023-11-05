@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3>Hey, Good Lookin'</h3>
+<h3>Hey There,</h3>
 
 <hr>
 
