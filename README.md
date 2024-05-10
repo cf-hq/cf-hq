@@ -23,7 +23,7 @@
   I'm a <b>web development student</b> currently living in <b>Philadelphia</b>. I enjoy working in Spyder - Python is my main language - and am always working on projects in SQL and Java as well. 
 </p>
 <p>
-  Outside of coding, I work full-time as a bartender, travel often, eat new food, and just generally vibe. I also promote making transgender healthcare accessible through the 🏳️‍⚧️<a href="http://www.transyouthequality.org/">Trans Youth Equality Foundation</a>. Feel free to contact me through any of the links above, I'm always happy to talk.
+  Outside of coding, I work full-time, travel often, eat new food, and just generally vibe. I also promote making transgender healthcare accessible through the 🏳️‍⚧️<a href="http://www.transyouthequality.org/">Trans Youth Equality Foundation</a>. Feel free to contact me through any of the links above, I'm always happy to talk.
 </p>
 </section>
 
